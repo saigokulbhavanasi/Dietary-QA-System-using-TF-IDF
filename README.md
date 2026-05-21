@@ -214,12 +214,3 @@ diet-LLM-mini-project/
 ## 📌 Conclusion
 
 This project demonstrates how a small, explainable NLP system can perform question answering using classical techniques without relying on large-scale neural models.
-
---- 
-
-## 🧑🏻‍💻 Team Members
-
-- **P. Thrivikram**
-- **A. Guru Sai Harsha**
-- **S. Abdul Sami**
-- **U. Karthikeya**
